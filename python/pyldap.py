@@ -1,5 +1,10 @@
 #!/bin/env python
 
+###
+### http://www.python-ldap.org/docs.shtml
+###
+
+
 import ldap
 import os,sys
 import ldap.sasl
