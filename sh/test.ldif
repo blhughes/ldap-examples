@@ -1,0 +1,4 @@
+dn: uid=USERNAME,ou=accounts,dc=tcc,dc=nmt,dc=edu
+changetype: modify
+replace: gecos
+gecos: MYGECOS
